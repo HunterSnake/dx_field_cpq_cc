@@ -1,0 +1,11 @@
+{
+    "orgName": "Test Company",
+    "edition": "Developer",
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false
+        }
+    },
+    "features": ["CPQ","MultiCurrency"]
+}
