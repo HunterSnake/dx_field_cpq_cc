@@ -1,6 +1,6 @@
 # Salesforce CPQ&CC Playground
 
-Create a scratch org with Salesforce CPQ installed
+Create a scratch org with Salesforce CPQ && B2B Ecommence installed
 
 ## Steps
 
