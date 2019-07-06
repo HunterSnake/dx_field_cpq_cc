@@ -6,7 +6,7 @@ Create a scratch org with Salesforce CPQ installed
 
 1. Clone repository
     - go into the new project folder in command line
-        - `cd ProductSync`
+        - `cd dx_field_cpq_cc`
 2. Create Scratch org for the DX Project
     - type into command line
         - `sfdx force:org:create --setdefaultusername --setalias cpq_cc --definitionfile config/project-scratch-def.json`
